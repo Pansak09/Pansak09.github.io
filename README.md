@@ -6,3 +6,17 @@
 
 ![download banner](https://github.com/Pansak09/Pansak09.github.io/blob/main/Banner.png).
 พันศักดิ์ ปัสสามั่น
+
+## คำสั่ง git พื้นฐาน
+---
+
+git status
+git add 
+git commit
+---
+#คำสั่ง python พื้นฐาน
+---python
+d = {'Anna':3.99 'Betty': 3.78}
+for k,v in d.item():
+  print(k!v)
+--
