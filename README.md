@@ -1,4 +1,4 @@
-![banner]().
+![banner](https://github.com/Pansak09/Pansak09.github.io/blob/main/Banner.png).
 #my Lecture Note
 
 สำหรับวิชา oop
